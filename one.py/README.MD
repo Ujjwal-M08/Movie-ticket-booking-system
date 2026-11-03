@@ -142,4 +142,6 @@ Developed by: Ujjwal Mahilang
 ERP ID: RU-26-02726
 Section: B2
 Email: ujjwal.mahilang@rungta.org
-
+Mentored by: Mr. Satyaprakash Sethy
+Github: @SATYAPRAKASHSETHY
+Role: Python mentor/ Technical guide
